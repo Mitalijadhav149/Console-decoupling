@@ -69,7 +69,7 @@
           <mxGeometry height="30" width="160" x="500" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="0MJ_lUC53_fuiESHuvvu-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="return the code" vertex="1">
-          <mxGeometry height="30" width="160" x="460" y="50" as="geometry" />
+          <mxGeometry height="30" width="160" x="500" y="60" as="geometry" />
         </mxCell>
         <mxCell id="0MJ_lUC53_fuiESHuvvu-22" edge="1" parent="1" source="0MJ_lUC53_fuiESHuvvu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0MJ_lUC53_fuiESHuvvu-21" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -78,7 +78,7 @@
           <mxGeometry height="50" width="200" x="700" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="0MJ_lUC53_fuiESHuvvu-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="keep &quot;NA&quot;" vertex="1">
-          <mxGeometry height="50" width="200" x="700" y="70" as="geometry" />
+          <mxGeometry height="40" width="90" x="755" y="80" as="geometry" />
         </mxCell>
         <mxCell id="0MJ_lUC53_fuiESHuvvu-26" edge="1" parent="1" source="0MJ_lUC53_fuiESHuvvu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0MJ_lUC53_fuiESHuvvu-25" value="">
           <mxGeometry relative="1" as="geometry" />
